@@ -75,6 +75,3 @@ SELECT subject, AVG(score) AS avg_score
 FROM marks
 GROUP BY subject;
 
----------------------------------------------
--- END OF PROJECT
----------------------------------------------
